@@ -1,5 +1,6 @@
 Debug/
 Lightswitch.*
 *Statemachine*
+!*Lightswitch.sct
 TimerInterface.h
 
